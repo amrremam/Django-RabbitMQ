@@ -1,2 +1,2 @@
 # Django-RabbitMQ
-Mailing app work with Django and rabbitMQ
+Django Mailing app work with Celery and rabbitMQ
